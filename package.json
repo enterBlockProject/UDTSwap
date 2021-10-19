@@ -1,0 +1,13 @@
+{
+  "name": "udtswap_scripts",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@nervosnetwork/ckb-sdk-core": "^0.29.1",
+    "fs": "0.0.1-security",
+    "mocha": "^8.0.1"
+  },
+  "license": "MIT"
+}
